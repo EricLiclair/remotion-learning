@@ -12,6 +12,10 @@
 	"repository": {},
 	"license": "UNLICENSED",
 	"dependencies": {
+		"@emotion/react": "^11.7.1",
+		"@emotion/styled": "^11.6.0",
+		"@mui/icons-material": "^5.4.2",
+		"@mui/material": "^5.4.2",
 		"@remotion/bundler": "^2.3.2",
 		"@remotion/cli": "^2.3.2",
 		"@remotion/eslint-config": "^2.3.2",
